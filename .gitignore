@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Chaves privadas
+*.pem
+*.key
+
+# Arquivos gerados
+dist/
+build/
+coverage/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

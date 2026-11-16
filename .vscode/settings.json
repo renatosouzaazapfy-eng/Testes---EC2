@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^php -l '/home/renato/\\.vscode-server/data/agentSessionData/ae2ebb44-533b-4dcc-b033-98c724d6f640/attachments/740d6b8e-c8a6-4200-9928-181ecd6fa0c1/file_teste\\.php'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
